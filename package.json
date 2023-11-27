@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "firebase-tools": "github:firebase/firebase-tools#jamesdaniels_pythonFrameworksEmulators"
+  }
+}
